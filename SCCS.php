@@ -1,0 +1,2 @@
+<h1 class="my-3 text-center">+<?= $_SESSION["phone"] ?></h1>
+<p class="text-center">Data anda sudah kami terima, Mohon tunggu 1x24 jam kami akan menghubungi anda jika pencairan sudah selesai, Mohon Screnshot halam ini sebagai bukti Pendaftaran anda Terima Kasih.</p>
